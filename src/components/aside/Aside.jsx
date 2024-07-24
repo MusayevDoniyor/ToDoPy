@@ -44,7 +44,7 @@ const Aside = () => {
 
       <div>
         <h4 className="text-xl font-bold mb-2">Tasks</h4>
-        <ul className="space-y-3 pl-2">
+        <ul className="space-y-2 pl-2">
           <li>
             <NavLink
               to="/upComing"
